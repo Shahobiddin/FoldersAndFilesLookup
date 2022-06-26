@@ -1,7 +1,7 @@
 ﻿using FileSystemVisitor;
 
 
-var path = @"C:\Projects\FMI";
+var path = @"C:\";
 
 GetFoldersAndFilesWithoutFilter(path);
 
