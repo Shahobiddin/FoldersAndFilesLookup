@@ -23,7 +23,6 @@ namespace FileSystemVisitor
             InitializeNotifyEvent();
         }
 
-
         private void InitializeNotifyEvent()
         {
             NotifyEvent += message =>
